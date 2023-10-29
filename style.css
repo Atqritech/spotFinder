@@ -1,0 +1,47 @@
+*, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;}
+
+
+.sticky-top{
+    background-color: white;
+    border-bottom: 1px solid grey;
+    font-weight: 500px;
+}
+
+
+
+.flex{
+    display: flex;
+}
+
+.partner{
+    position: relative;
+}
+.partner_txt{
+    position: absolute;
+    top: 30vh;
+    left: 65vh;
+    font-weight: bolder;
+    
+}
+
+
+.sub_btn{
+    position: relative;
+    margin-left: 70vh;
+}
+
+.floating{
+color: #DC2626;
+text-decoration: none;
+margin-left: 10px;
+font-size: 35px;
+}
+
+.stroke{
+    color:#97A3B8;
+    font-size: 16px !important;
+}
